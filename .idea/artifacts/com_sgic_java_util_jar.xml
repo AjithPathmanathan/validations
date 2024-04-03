@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.sgic.java.util:jar">
+    <output-path>D:/intelij</output-path>
+    <root id="archive" name="task 2.jar">
+      <element id="module-output" name="task 2" />
+    </root>
+  </artifact>
+</component>
